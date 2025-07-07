@@ -19,7 +19,7 @@ This is a simple and responsive **Image Search Engine** web application that all
 - **JavaScript** – Logic for fetching and displaying images
 - **Unsplash API** – Source of images
 
-## 📸 Demo
+## 📸 screenshot
 
 ![Demo Screenshot](https://github.com/Sheeraz88/Image-Search-Engine-/blob/main/image%20search%20engine/screenshots/Screenshot%202025-07-07%20135512.png)
 
