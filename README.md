@@ -23,8 +23,6 @@ This is a simple and responsive **Image Search Engine** web application that all
 
 ![Demo Screenshot](https://github.com/Sheeraz88/Image-Search-Engine-/blob/main/image%20search%20engine/screenshots/Screenshot%202025-07-07%20135512.png)
 
-Try it live: [https://Sheeraz.github.io/image-search-engine](https://yourusername.github.io/image-search-engine) *(Replace with your actual GitHub Pages link if deployed)*
-
 ## ⚙️ How to Use
 
 1. Clone this repository:
