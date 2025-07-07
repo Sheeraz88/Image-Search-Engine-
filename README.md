@@ -29,7 +29,7 @@ Try it live: [https://Sheeraz.github.io/image-search-engine](https://yourusernam
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/image-search-engine.git
+   git clone https://github.com/Sheeraz88/Image-Search-Engine-.git
 
 2. Navigate to the project directory:
 
